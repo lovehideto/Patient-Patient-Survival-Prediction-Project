@@ -10,6 +10,7 @@ So, I build a classification model to predict if the patient will survive in the
 
 ## Data Source:
 I use the data from kaggle [Kaggle Data](https://www.kaggle.com/datasets/mitishaagarwal/patient/data)
+
 ## Models
 Logistic Regression
 Bernoulli Naïve Bayes
@@ -17,6 +18,7 @@ Random Forest
 XGBoost
 Balanced Random Forest
 Balanced Bagging
+
 ## Outcome
 The best model is the Random Forest classiffier, which improved the predictive power more than 10 times.\
 Best model Metrics:
