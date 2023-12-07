@@ -1,6 +1,6 @@
 # Patient-Patient-Survival-Prediction-Project
 
-![Title image]((https://github.com/lovehideto/Patient-Patient-Survival-Prediction-Project/blob/main/IMG/dataset-cover.jpeg)
+![Title image](https://github.com/lovehideto/Patient-Patient-Survival-Prediction-Project/blob/main/IMG/dataset-cover.jpeg)
 
 Problem Statement:
 
