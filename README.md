@@ -17,7 +17,7 @@ Bernoulli Naïve Bayes\
 Random Forest\
 XGBoost\
 Balanced Random Forest\
-Balanced Bagging\
+Balanced Bagging
 
 ## Outcome
 The best model is the Random Forest classiffier, which improved the predictive power more than 10 times.\
